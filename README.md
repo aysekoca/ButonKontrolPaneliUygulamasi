@@ -11,25 +11,25 @@ Daha basit olarak anlatırsak bu uygulama özel tuşlar yapmak için kullanılı
 1)CustomButton sınıfı özelleştirilmiş butonları temsil eder. Butonların özelliklerini dinamik olarak değiştirmek ve butonlara tıklama olaylarını yönetmek için kullanılır
 Kodu çalıştırmak için, main metodu olan CustomButton sınıfını çalıştırabiliriz. <br>
 
-2)Butonların Özellikleri
+2)Butonların Özellikleri <br>
 Bu kod, özel butonlar oluşturur. Her bir butonun üzerinde belirli bir metin bulunur ve bu butonlara tıklandığında renkleri ve simgeleri değişir.<br>
 Butonları oluştururken kullanabileceğiniz bazı özellikler vardır:<br>
-         a)Metin: Butonun üzerinde göstermek istediğiniz yazı. <br>
-         b)Pasif Rengi: Butonun pasif durumda olduğunda göstereceği renk.<br>
-         c)Aktif Rengi: Butonun aktif durumda olduğunda göstereceği renk.<br>
-         d)Pasif Simgesi: Buton pasif durumdayken göstereceği simge.<br>
-         e)Aktif Simgesi: Buton aktif durumdayken göstereceği simge.<br>
-         f) GraphQL Schema: Butona tıklandığında çalıştırılacak olan hayali GraphQL şeması.<br>
+         **a)Metin:** Butonun üzerinde göstermek istediğiniz yazı. <br>
+         **b)Pasif Rengi:** Butonun pasif durumda olduğunda göstereceği renk.<br>
+         **c)Aktif Rengi:** Butonun aktif durumda olduğunda göstereceği renk.<br>
+         **d)Pasif Simgesi:** Buton pasif durumdayken göstereceği simge.<br>
+         **e)Aktif Simgesi:** Buton aktif durumdayken göstereceği simge.<br>
+         **f)GraphQL Schema:** Butona tıklandığında çalıştırılacak olan hayali GraphQL şeması.<br>
 
 
 Butonların Özelliklerini Değiştirme:<br>
 Butonların metin değerlerini, renklerini ve simgelerini değiştirmek için setButtonText, setButtonColors ve setButtonIcons gibi metodları kullanabiliriz. Bu metodlar, butonların görünümünü ayarlamanıza sağlar.<br>
 
-3)Kodu Test Etme
+3)Kodu Test Etme <br>
 Kodu çalıştırdıktan sonra, oluşturulan butonların görünüşünü ve davranışını gözlemleriz.
 Butonlara tıklayarak durumlarının nasıl değiştiğini görebilir ve renk/simge değişimini test edebiliriz.
 Butonları farklı şekillerde oluşturarak nasıl çalıştığını gözlemleyebiliriz. Örneğin, farklı renkler veya farklı simgelerle deneyebiliriz.<br>
-#### UYGULAMAYA AİT KODUN VİDEOSU:
+#### UYGULAMAYA AİT KODUN ÇALIŞTIRILMA VİDEOSU:
 
 [Uploading Ekran Kaydı 2023-12-09 15.54.00.zip…]()
 
@@ -65,6 +65,7 @@ Buton kontrol paneli uygulamasında kullandığımız GraphQL şeması, bir tür
 #### GrapQl Şemasının Kullanım Örnekleri:
 
 1)Sosyal Medya Uygulamaları: Kullanıcı profilleri, paylaşılan gönderiler veya yorumlar gibi içerikler, kullanıcılar arasındaki etkileşimleri temsil eden GraphQL şemaları üzerinden yönetilebilir. Örneğin, bir "beğeni" butonu veya "yorum yap" butonu, ilgili gönderiye yapılan bir GraphQL mutasyonuyla ilişkilendirilmiş olabilirler.<br>
+
 2)E-Ticaret Siteleri: Ürünler, kategoriler, sepet işlemleri gibi e-ticaret işlevleri GraphQL şemaları aracılığıyla temsil edilebilir. Bir "sepete ekle" butonu, ilgili ürünün eklenmesini temsil eden bir GraphQL mutasyonuyla ilişkilendirilebilir.<br>
 
 3)Hava Durumu Uygulamaları: Hava durumu verileri, şehirler veya koordinatlar aracılığıyla alınabilir. Kullanıcılar, belirli bir şehir için hava durumu verilerini almak için bir butona tıkladıklarında, bu buton ilgili GraphQL sorgusunu tetikleyebilir.<br>
