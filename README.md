@@ -1,5 +1,4 @@
 
-https://github.com/aysekoca/ButonKontrolPaneliUygulamasi/assets/115224843/23d191c6-01ae-4bd1-9be9-a7682740f821
 # ButonKontrolPaneliUygulamasi
 ## BUTON KONTROL PANELİ UYGULAMASI
 
