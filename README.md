@@ -31,7 +31,10 @@ Butonlara tıklayarak durumlarının nasıl değiştiğini görebilir ve renk/si
 Butonları farklı şekillerde oluşturarak nasıl çalıştığını gözlemleyebiliriz. Örneğin, farklı renkler veya farklı simgelerle deneyebiliriz.<br>
 #### UYGULAMAYA AİT KODUN ÇALIŞTIRILMA VİDEOSU:
 
-[Uploading Ekran Kaydı 2023-12-09 15.54.00.zip…]()
+
+
+https://github.com/aysekoca/ButonKontrolPaneliUygulamasi/assets/115224843/2bee76fe-812d-4184-8e6c-ec7d64506016
+
 
 
 
