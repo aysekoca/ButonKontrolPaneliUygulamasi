@@ -76,7 +76,9 @@ Buton kontrol paneli uygulamasında kullandığımız GraphQL şeması, bir tür
 
 Uygulamamızdaki hayali  graphqlSchema ise her bir butonun ilişkilendirildiği bu yapısal şemayı temsil eder. Bu şema o butonun hangi veriyi veya işlemi temsil ettiğini belirtir. Bu şekilde, butonlara tıklama işlemi, belirtilen GraphQL şemasında tanımlanan bir işlemi gerçekleştirir.
 
- 
+
+ ![GrapQl](https://github.com/aysekoca/ButonKontrolPaneliUygulamasi/assets/115224843/d9a6c9ee-227c-48d7-b350-c61e284aab5d)
+
 
 
 
