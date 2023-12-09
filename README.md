@@ -33,7 +33,9 @@ Butonları farklı şekillerde oluşturarak nasıl çalıştığını gözlemley
 
 
 
-https://github.com/aysekoca/ButonKontrolPaneliUygulamasi/assets/115224843/2bee76fe-812d-4184-8e6c-ec7d64506016
+
+Uploading Ekrankaydı.mp4…
+
 
 
 
