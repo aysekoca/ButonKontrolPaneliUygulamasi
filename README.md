@@ -23,7 +23,7 @@ Butonları oluştururken kullanabileceğiniz bazı özellikler vardır:<br>
 
 
 Butonların Özelliklerini Değiştirme:<br>
-Butonların metin değerlerini, renklerini ve simgelerini değiştirmek için setButtonText, setButtonColors ve setButtonIcons gibi metodları kullanabiliriz. Bu metodlar, butonların görünümünü ayarlamanıza sağlar.<br>
+Butonların metin değerlerini, renklerini ve simgelerini değiştirmek için **setButtonText**, **setButtonColors** ve **setButtonIcons** gibi metodları kullanabiliriz. Bu metodlar, butonların görünümünü ayarlamanıza sağlar.<br>
 
 3)Kodu Test Etme <br>
 Kodu çalıştırdıktan sonra, oluşturulan butonların görünüşünü ve davranışını gözlemleriz.
@@ -56,7 +56,10 @@ Butonları farklı şekillerde oluşturarak nasıl çalıştığını gözlemley
 ### GRAPQL ŞEMASI
 
 Buton kontrol paneli uygulamasında kullandığımız GraphQL şeması, bir tür veri organize etme ve erişme yapısıdır.<br>
-Örnek vericek olursak, bir uygulama kullanıcılar gönderiler veya ürünler gibi farklı veri türlerine sahip olabilir. GraphQL şeması, bu veri türlerini ve bunlarla yapılabilecek işlemleri(örneğin, yeni bir kullanıcı oluşturma veya bir gönderiyi güncelleme gibi) tanımlar. Uygulamamızdaki hayali  graphqlSchema ise her bir butonun ilişkilendirildiği bu yapısal şemayı temsil eder. Bu şema o butonun hangi veriyi veya işlemi temsil ettiğini belirtir. Bu şekilde, butonlara tıklama işlemi, belirtilen GraphQL şemasında tanımlanan bir işlemi gerçekleştirir.
+
+Örnek vericek olursak, bir uygulama kullanıcılar gönderiler veya ürünler gibi farklı veri türlerine sahip olabilir. GraphQL şeması, bu veri türlerini ve bunlarla yapılabilecek işlemleri(örneğin, yeni bir kullanıcı oluşturma veya bir gönderiyi güncelleme gibi) tanımlar.<br>
+
+Uygulamamızdaki hayali  graphqlSchema ise her bir butonun ilişkilendirildiği bu yapısal şemayı temsil eder. Bu şema o butonun hangi veriyi veya işlemi temsil ettiğini belirtir. Bu şekilde, butonlara tıklama işlemi, belirtilen GraphQL şemasında tanımlanan bir işlemi gerçekleştirir.
 
  
 
